@@ -1,0 +1,9 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\bin\Debug\CsvDataExtractorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\bin\Debug\CsvDataExtractorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\bin\Debug\DataExtractorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\bin\Debug\DataExtractorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\obj\Debug\CsvDataExtractorLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\obj\Debug\CsvDataExtractorLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\obj\Debug\CsvDataExtractorLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\obj\Debug\CsvDataExtractorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CsvDataExtractorLib\obj\Debug\CsvDataExtractorLib.pdb

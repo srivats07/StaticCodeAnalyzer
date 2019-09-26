@@ -1,0 +1,9 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\bin\Debug\RegexParseForMetricLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\bin\Debug\RegexParseForMetricLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\bin\Debug\RegexParserLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\bin\Debug\RegexParserLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\obj\Debug\RegexParseForMetricLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\obj\Debug\RegexParseForMetricLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\obj\Debug\RegexParseForMetricLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\obj\Debug\RegexParseForMetricLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParseForMetricLib\obj\Debug\RegexParseForMetricLib.pdb

@@ -1,0 +1,6 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\bin\Debug\ZipOperationsLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\bin\Debug\ZipOperationsLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\obj\Debug\ZipOperationsLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\obj\Debug\ZipOperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\obj\Debug\ZipOperationsLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipOperationsLib\obj\Debug\ZipOperationsLib.pdb

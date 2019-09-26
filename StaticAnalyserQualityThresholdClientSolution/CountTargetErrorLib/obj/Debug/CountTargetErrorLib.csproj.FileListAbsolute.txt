@@ -1,0 +1,13 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\CountTargetErrorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\CountTargetErrorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\CounterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\RegexParseForMetricLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\RegexParserLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\CounterLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\RegexParseForMetricLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\bin\Debug\RegexParserLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\obj\Debug\CountTargetErrorLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\obj\Debug\CountTargetErrorLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\obj\Debug\CountTargetErrorLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\obj\Debug\CountTargetErrorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountTargetErrorLib\obj\Debug\CountTargetErrorLib.pdb

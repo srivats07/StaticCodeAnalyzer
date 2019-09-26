@@ -1,0 +1,6 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\bin\Debug\DataExtractorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\bin\Debug\DataExtractorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\obj\Debug\DataExtractorLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\obj\Debug\DataExtractorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\obj\Debug\DataExtractorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataExtractorLib\obj\Debug\DataExtractorLib.csprojAssemblyReference.cache

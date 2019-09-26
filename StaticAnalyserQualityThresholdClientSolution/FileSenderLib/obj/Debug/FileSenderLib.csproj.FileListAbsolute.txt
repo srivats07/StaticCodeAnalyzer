@@ -1,0 +1,11 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\FileSenderLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\FileSenderLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\obj\Debug\FileSenderLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\obj\Debug\FileSenderLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\obj\Debug\FileSenderLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\obj\Debug\FileSenderLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileSenderLib\obj\Debug\FileSenderLib.pdb

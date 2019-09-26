@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D4577F6-06AE-4F47-B442-78D8BEEC3EBB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>StaticAnalyserQualityThresholdConsoleClient</RootNamespace>
+    <AssemblyName>StaticAnalyserQualityThresholdConsoleClient</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CompareLib\CompareLib.csproj">
+      <Project>{874580f0-0ecf-4d8a-8355-c2eabafc8423}</Project>
+      <Name>CompareLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CsvDataExtractorLib\CsvDataExtractorLib.csproj">
+      <Project>{3ae803a9-cf59-4d03-a186-ac8bd1bf9c0f}</Project>
+      <Name>CsvDataExtractorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataExtractorLib\DataExtractorLib.csproj">
+      <Project>{9953a24d-079d-4068-a8db-56ef443579c6}</Project>
+      <Name>DataExtractorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataRemoveLib\DataRemoveLib.csproj">
+      <Project>{fda015fa-6924-4b2f-a8fd-cc83396c4670}</Project>
+      <Name>DataRemoveLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GitCloneExecutorLib\GitCloneExecutorLib.csproj">
+      <Project>{608aed42-6ce8-4b81-b6f0-fe7e5870db42}</Project>
+      <Name>GitCloneExecutorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GitCommandExecuteLib\GitCommandExecuteLib.csproj">
+      <Project>{f198ce3f-98d1-42e6-ac3b-dbe432ae7cae}</Project>
+      <Name>GitCommandExecuteLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InputRecieverLib\InputRecieverLib.csproj">
+      <Project>{8a53e927-8e6d-4bf0-a044-9e7c74830220}</Project>
+      <Name>InputRecieverLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QualityThresholdEvaluatorLib\QualityThresholdEvaluatorLib.csproj">
+      <Project>{c2e833ad-5b16-4f84-864a-02f3dd38a023}</Project>
+      <Name>QualityThresholdEvaluatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QualityThresholdListRecieverLib\QualityThresholdListRecieverLib.csproj">
+      <Project>{cb802fbf-39cc-496e-9947-f1c6f470edb9}</Project>
+      <Name>QualityThresholdListRecieverLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SendInputLib\SendInputLib.csproj">
+      <Project>{30e6c5ff-e588-41a0-a323-ffa507f60083}</Project>
+      <Name>SendInputLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SendProjectInputLib\SendProjectInputLib.csproj">
+      <Project>{34db4c5d-98f1-4f45-ab2c-05970a2b07f7}</Project>
+      <Name>SendProjectInputLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemporaryDataRemoverLib\TemporaryDataRemoverLib.csproj">
+      <Project>{b8ec6fe3-0e8a-4e5e-bef0-0972840aa035}</Project>
+      <Name>TemporaryDataRemoverLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThresholdMetricsLib\ThresholdMetricsLib.csproj">
+      <Project>{47a80862-2b05-47db-96ce-5a2fa55b42ee}</Project>
+      <Name>ThresholdMetricsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ZipGitRepoLib\ZipGitRepoLib.csproj">
+      <Project>{97a1ed78-dd24-4e3e-a259-e829a5377c93}</Project>
+      <Name>ZipGitRepoLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ZipOperationsLib\ZipOperationsLib.csproj">
+      <Project>{573805bb-2501-4413-8066-f60865559bd0}</Project>
+      <Name>ZipOperationsLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

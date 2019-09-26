@@ -1,0 +1,10 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\bin\Debug\ZipGitRepoLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\bin\Debug\ZipGitRepoLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\bin\Debug\ZipOperationsLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\bin\Debug\ZipOperationsLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\obj\Debug\ZipGitRepoLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\obj\Debug\ZipGitRepoLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\obj\Debug\ZipGitRepoLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\obj\Debug\ZipGitRepoLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\ZipGitRepoLib\obj\Debug\ZipGitRepoLib.pdb

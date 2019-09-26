@@ -1,0 +1,8 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\bin\Debug\CompareLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\bin\Debug\CompareLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\obj\Debug\CompareLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\obj\Debug\CompareLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\obj\Debug\CompareLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\bin\Debug\CompareLib.dll.CodeAnalysisLog.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\bin\Debug\CompareLib.dll.lastcodeanalysissucceeded
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CompareLib\obj\Debug\CompareLib.csprojAssemblyReference.cache

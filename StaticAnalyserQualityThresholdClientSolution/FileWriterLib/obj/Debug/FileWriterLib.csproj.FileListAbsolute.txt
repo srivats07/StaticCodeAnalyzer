@@ -1,0 +1,8 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\bin\Debug\FileWriterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\bin\Debug\FileWriterLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\obj\Debug\FileWriterLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\obj\Debug\FileWriterLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\obj\Debug\FileWriterLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\obj\Debug\FileWriterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\FileWriterLib\obj\Debug\FileWriterLib.pdb

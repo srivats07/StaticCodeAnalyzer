@@ -1,0 +1,8 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\bin\Debug\WebDataRecieverLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\bin\Debug\WebDataRecieverLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\obj\Debug\WebDataRecieverLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\obj\Debug\WebDataRecieverLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\obj\Debug\WebDataRecieverLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\bin\Debug\WebDataRecieverLib.dll.CodeAnalysisLog.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\bin\Debug\WebDataRecieverLib.dll.lastcodeanalysissucceeded
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\WebDataRecieverLib\obj\Debug\WebDataRecieverLib.csprojAssemblyReference.cache

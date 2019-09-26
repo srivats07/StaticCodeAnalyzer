@@ -1,0 +1,13 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\SendProjectInputLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\SendProjectInputLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\SendInputLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\SendInputLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\obj\Debug\SendProjectInputLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\obj\Debug\SendProjectInputLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\obj\Debug\SendProjectInputLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\obj\Debug\SendProjectInputLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\obj\Debug\SendProjectInputLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendProjectInputLib\bin\Debug\System.Net.Http.Formatting.xml

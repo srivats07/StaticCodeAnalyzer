@@ -1,0 +1,6 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\bin\Debug\DataRemoveLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\bin\Debug\DataRemoveLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\obj\Debug\DataRemoveLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\obj\Debug\DataRemoveLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\obj\Debug\DataRemoveLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\DataRemoveLib\obj\Debug\DataRemoveLib.csprojAssemblyReference.cache

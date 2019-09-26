@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2E833AD-5B16-4F84-864A-02F3DD38A023}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QualityThresholdEvaluatorLib</RootNamespace>
+    <AssemblyName>QualityThresholdEvaluatorLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="QualityThresholdEvaluator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CompareLib\CompareLib.csproj">
+      <Project>{874580f0-0ecf-4d8a-8355-c2eabafc8423}</Project>
+      <Name>CompareLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CounterLib\CounterLib.csproj">
+      <Project>{5dab8250-eee0-4f59-b5bc-4de44a2c7dc9}</Project>
+      <Name>CounterLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountRecievedErrorLib\CountRecievedErrorLib.csproj">
+      <Project>{f4a71be4-bf76-47c4-b3df-fbee49cffd32}</Project>
+      <Name>CountRecievedErrorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountRecievedWarningLib\CountRecievedWarningLib.csproj">
+      <Project>{de4bc185-6737-4108-823d-d6ccb08db045}</Project>
+      <Name>CountRecievedWarningLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountTargetErrorLib\CountTargetErrorLib.csproj">
+      <Project>{038a145b-61f2-4fc4-beb3-6dd54d6414ca}</Project>
+      <Name>CountTargetErrorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountTargetWarningLib\CountTargetWarningLib.csproj">
+      <Project>{18db2fb9-9b97-44da-925d-8a69ef8cfec5}</Project>
+      <Name>CountTargetWarningLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThresholdMetricsLib\ThresholdMetricsLib.csproj">
+      <Project>{47a80862-2b05-47db-96ce-5a2fa55b42ee}</Project>
+      <Name>ThresholdMetricsLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

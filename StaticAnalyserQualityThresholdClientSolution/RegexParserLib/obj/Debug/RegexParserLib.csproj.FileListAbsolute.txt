@@ -1,0 +1,6 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\bin\Debug\RegexParserLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\bin\Debug\RegexParserLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\obj\Debug\RegexParserLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\obj\Debug\RegexParserLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\obj\Debug\RegexParserLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\RegexParserLib\obj\Debug\RegexParserLib.pdb

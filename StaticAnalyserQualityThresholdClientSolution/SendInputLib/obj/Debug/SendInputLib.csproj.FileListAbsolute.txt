@@ -1,0 +1,8 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\bin\Debug\SendInputLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\bin\Debug\SendInputLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\obj\Debug\SendInputLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\obj\Debug\SendInputLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\obj\Debug\SendInputLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\obj\Debug\SendInputLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\bin\Debug\SendInputLib.dll.CodeAnalysisLog.xml
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\SendInputLib\bin\Debug\SendInputLib.dll.lastcodeanalysissucceeded

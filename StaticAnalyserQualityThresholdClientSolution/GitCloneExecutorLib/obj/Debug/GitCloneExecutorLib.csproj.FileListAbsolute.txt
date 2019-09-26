@@ -1,0 +1,9 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\bin\Debug\GitCloneExecutorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\bin\Debug\GitCloneExecutorLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\bin\Debug\GitCommandExecuteLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\bin\Debug\GitCommandExecuteLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\obj\Debug\GitCloneExecutorLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\obj\Debug\GitCloneExecutorLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\obj\Debug\GitCloneExecutorLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\obj\Debug\GitCloneExecutorLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\GitCloneExecutorLib\obj\Debug\GitCloneExecutorLib.pdb

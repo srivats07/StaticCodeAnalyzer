@@ -1,0 +1,6 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\bin\Debug\CounterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\bin\Debug\CounterLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\obj\Debug\CounterLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\obj\Debug\CounterLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\obj\Debug\CounterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CounterLib\obj\Debug\CounterLib.pdb

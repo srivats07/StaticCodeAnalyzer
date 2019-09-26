@@ -1,0 +1,9 @@
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\bin\Debug\CountRecievedWarningLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\bin\Debug\CountRecievedWarningLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\bin\Debug\CounterLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\bin\Debug\CounterLib.pdb
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\obj\Debug\CountRecievedWarningLib.csprojAssemblyReference.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\obj\Debug\CountRecievedWarningLib.csproj.CoreCompileInputs.cache
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\obj\Debug\CountRecievedWarningLib.csproj.CopyComplete
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\obj\Debug\CountRecievedWarningLib.dll
+C:\Users\320067390\source\repos\StaticAnalyserQualityThresholdClientSolution\CountRecievedWarningLib\obj\Debug\CountRecievedWarningLib.pdb
