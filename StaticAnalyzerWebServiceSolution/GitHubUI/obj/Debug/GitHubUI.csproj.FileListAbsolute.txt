@@ -1,0 +1,15 @@
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\bin\Debug\GitHubUI.exe.config
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\bin\Debug\GitHubUI.exe
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\bin\Debug\GitHubUI.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.csprojAssemblyReference.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\MainWindow.g.cs
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\App.g.cs
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI_MarkupCompile.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI_MarkupCompile.lref
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\MainWindow.baml
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.g.resources
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.Properties.Resources.resources
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.csproj.GenerateResource.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.csproj.CoreCompileInputs.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.exe
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\GitHubUI\obj\Debug\GitHubUI.pdb

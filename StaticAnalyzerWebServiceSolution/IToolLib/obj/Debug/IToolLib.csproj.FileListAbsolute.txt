@@ -1,0 +1,12 @@
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.pdb
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.csproj.CoreCompileInputs.cache
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.csproj.CoreCompileInputs.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\obj\Debug\IToolLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.dll.CodeAnalysisLog.xml
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolLib\bin\Debug\IToolLib.dll.lastcodeanalysissucceeded

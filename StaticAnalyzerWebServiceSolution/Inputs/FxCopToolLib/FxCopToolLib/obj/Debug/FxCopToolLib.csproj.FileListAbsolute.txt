@@ -1,0 +1,9 @@
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\obj\Debug\FxCopToolLib.csprojAssemblyReference.cache
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\obj\Debug\FxCopToolLib.csproj.CoreCompileInputs.cache
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\bin\Debug\FxCopToolLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\bin\Debug\FxCopToolLib.pdb
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\bin\Debug\IToolLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\bin\Debug\IToolLib.pdb
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\obj\Debug\FxCopToolLib.csproj.CopyComplete
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\obj\Debug\FxCopToolLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib\obj\Debug\FxCopToolLib.pdb

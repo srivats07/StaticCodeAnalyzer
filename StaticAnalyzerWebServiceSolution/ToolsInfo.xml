@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tools>
+  <Tool ToolName ="StyleCopToolLib.StyleCopTool" ToolDllPath="..\\StyleCopToolLib\\bin\\Debug\\StyleCopToolLib.dll" ExeFilePath ="C:\Users\320067390\Music\StyleCop\StyleCopCLI.exe" 
+    OutputDirectory ="..\\GeneratedFiles" />
+  <Tool ToolName ="FxCopToolLib.FxCopTool" ToolDllPath ="..\\FxCopToolLib\\bin\\Debug\\FxCopToolLib.dll" ExeFilePath="C:\Program Files (x86)\Microsoft Fxcop 10.0\FxCopCmd.exe"
+    OutputDirectory="..\\GeneratedFiles" />
+</Tools>
+  

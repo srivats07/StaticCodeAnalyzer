@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parsers>
+  <Parser Name="StyleCopDataParserLib.StyleCopDataParser" DllPath="..\\..\\..\\StyleCopDataParserLib\\bin\\Debug\\StyleCopDataParserLib.dll"/>
+  <Parser Name="FxCopDataParserLib.FxCopDataParser" DllPath="..\\..\\..\\FxCopDataParserLib\\bin\Debug\\FxCopDataParserLib.dll"/>
+</Parsers>

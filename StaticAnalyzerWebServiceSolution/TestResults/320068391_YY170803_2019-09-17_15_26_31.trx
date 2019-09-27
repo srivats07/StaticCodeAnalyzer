@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="882e56c7-bb45-4eeb-884c-d712a9a77c3c" name="320068391@YY170803 2019-09-17 15:26:31" runUser="CODE1\320068391" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-09-17T15:26:31.4447277+05:30" queuing="2019-09-17T15:26:31.4447277+05:30" start="2019-09-17T15:26:30.5238967+05:30" finish="2019-09-17T15:26:31.4466683+05:30" />
+  <TestSettings name="default" id="78b53b80-546b-414c-bd21-c35bb739a706">
+    <Deployment runDeploymentRoot="320068391_YY170803_2019-09-17_15_26_31" />
+  </TestSettings>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="YY170803" outcome="Warning" timestamp="2019-09-17T15:26:31.3908654+05:30">
+        <Text>No test is available in C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\FxCopToolLib.Test\bin\Debug\FxCopToolLib.dll. Make sure that test discoverer &amp; executors are registered and platform &amp; framework version settings are appropriate and try again.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>

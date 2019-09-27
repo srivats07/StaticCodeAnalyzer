@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CA1B575-584F-4985-9734-F91E9280B1DB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToolManagerLib</RootNamespace>
+    <AssemblyName>ToolManagerLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ToolManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FxCopToolLib\FxCopToolLib.csproj">
+      <Project>{47FE761C-2B95-41A9-9302-9703F8889930}</Project>
+      <Name>FxCopToolLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IToolDataParserLib\IToolDataParserLib.csproj">
+      <Project>{A875D958-BBD3-45EB-88C2-9D73769FF1E3}</Project>
+      <Name>IToolDataParserLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IToolDataWriterLib\IToolDataWriterLib.csproj">
+      <Project>{4EFFA7FE-271C-4AF9-964A-C03CF884D5DD}</Project>
+      <Name>IToolDataWriterLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StyleCopToolLib\StyleCopToolLib.csproj">
+      <Project>{16BE19A6-A7DA-47E1-90C1-0B930A361D95}</Project>
+      <Name>StyleCopToolLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolConfigurationLib\ToolConfigurationLib.csproj">
+      <Project>{DE1544F2-2140-4B06-86AE-68D8FBD75F2F}</Project>
+      <Name>ToolConfigurationLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolDataCsvWriterLib\ToolDataCsvWriterLib.csproj">
+      <Project>{15485C18-5E18-4E13-8378-D27B6930F0FE}</Project>
+      <Name>ToolDataCsvWriterLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolDataLib\ToolDataLib.csproj">
+      <Project>{266B1479-248F-4DA7-8134-79CE83E8A491}</Project>
+      <Name>ToolDataLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolOutputDataFormatLib\ToolOutputDataFormatLib.csproj">
+      <Project>{360E2249-A05B-4166-9476-D5B0CD545488}</Project>
+      <Name>ToolOutputDataFormatLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolParserConfigurationLib\ToolParserConfigurationLib.csproj">
+      <Project>{AC5A3F9A-FB72-4344-8B52-CEB2C7D2FA03}</Project>
+      <Name>ToolParserConfigurationLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolParserInfoFormatLib\ToolParserInfoFormatLib.csproj">
+      <Project>{3C955032-1F1E-46CF-B62E-984011B7EA54}</Project>
+      <Name>ToolParserInfoFormatLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolRunnerLib\ToolRunnerLib.csproj">
+      <Project>{7A84B9A4-FFC9-4BED-B821-8FC904A4B7C1}</Project>
+      <Name>ToolRunnerLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

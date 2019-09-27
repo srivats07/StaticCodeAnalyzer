@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfXElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XElement>
+    <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'ComputeLibrary.dll' with a strong name key.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Certainty="95" Level="Error">Mark 'ComputeLibrary.dll' with CLSCompliant(true) because it exposes externally visible types.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="Vehical" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="Breaking">
+      <Issue Name="Type" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Vehical' in type name 'Vehical'.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="color" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="Breaking">
+      <Issue Name="Member" Certainty="85" Level="Error" Path="C:\Users\320068391\source\repos\TestApp\ComputeLibrary" File="Car.cs" Line="12">Correct the casing of 'color' in member name 'Vehical.color' by changing it to 'Color'.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="model" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="Breaking">
+      <Issue Name="Member" Certainty="85" Level="Error" Path="C:\Users\320068391\source\repos\TestApp\ComputeLibrary" File="Car.cs" Line="11">Correct the casing of 'model' in member name 'Vehical.model' by changing it to 'Model'.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="Vehi" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="Breaking">
+      <Issue Name="Type" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Vehi' in type name 'VehiCalRepository'.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message TypeName="StaticHolderTypesShouldNotHaveConstructors" Category="Microsoft.Design" CheckId="CA1053" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="Breaking">
+      <Issue Name="CSharp2_0" Certainty="90" Level="Error">Because type 'VehiCalRepository' contains only 'static' members, mark it as 'static' to prevent the compiler from adding a default public constructor.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Certainty="75" Level="Warning" Path="C:\Users\320068391\source\repos\TestApp\ComputeLibrary" File="Car.cs" Line="29">'VehiCalRepository.Main(string[])' appears to have no upstream public or protected callers.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="list" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Certainty="95" Level="Warning" Path="C:\Users\320068391\source\repos\TestApp\ComputeLibrary" File="Car.cs" Line="31">'VehiCalRepository.Main(string[])' declares a variable, 'list', of type 'IEnumerable&lt;Vehical&gt;', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+    </Message>
+  </XElement>
+  <XElement>
+    <Message Id="args" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Certainty="95" Level="Warning" Path="C:\Users\320068391\source\repos\TestApp\ComputeLibrary" File="Car.cs" Line="29">Parameter 'args' of 'VehiCalRepository.Main(string[])' is never used. Remove the parameter or use it in the method body.</Issue>
+    </Message>
+  </XElement>
+</ArrayOfXElement>

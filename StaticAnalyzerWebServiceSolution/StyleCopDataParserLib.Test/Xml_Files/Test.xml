@@ -1,0 +1,3 @@
+<StyleCopViolations>
+ <Violation Section="Root.StaticAnalysisTool.MainProgram.path1" LineNumber="16" Source="C:\Users\320068391\source\repos\StaticAnalysisTool\StaticAnalysisTool\Program.cs" RuleNamespace="StyleCop.CSharp.DocumentationRules" Rule="ElementsMustBeDocumented" RuleId="SA1600">The field must have a documentation header.</Violation>
+</StyleCopViolations>

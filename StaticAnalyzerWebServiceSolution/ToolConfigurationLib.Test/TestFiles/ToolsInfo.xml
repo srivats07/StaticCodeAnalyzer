@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tools>
+  <Tool ToolName ="StyleCopToolLib.StyleCopTool" ToolDllPath="..\\..\\..\\StyleCopToolLib\\bin\\Debug\\StyleCopToolLib.dll" ExeFilePath ="C:\Users\320068391\Desktop\stylecopcli_1.4.0.0_bin (2)\StyleCopCLI.exe" 
+    OutputDirectory ="..\\..\\..\\GeneratedFiles" />
+  <Tool ToolName ="FxCopToolLib.FxCopTool" ToolDllPath ="..\\..\\..\\FxCopToolLib\\bin\\Debug\\FxCopToolLib.dll" ExeFilePath="C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\Community\\Team Tools\\Static Analysis Tools\\FxCop\\FxCopCmd.exe"
+    OutputDirectory="..\\..\\..\\GeneratedFiles" />
+</Tools>
+  

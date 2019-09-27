@@ -1,0 +1,24 @@
+﻿<Window x:Class="GitHubUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GitHubUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFBA7BD9" Margin="0,0,-129.4,-324" Height="744" VerticalAlignment="Top">
+        <Button Content="Analyze the GitHubProject" HorizontalAlignment="Left" Margin="107,254,0,0" VerticalAlignment="Top" Width="171" Height="44" Click="Button_Click" Background="#FFD8F6E5"/>
+        <TextBox x:Name="GitHubUrl" HorizontalAlignment="Left" Height="58" Margin="25,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="339"/>
+        <RichTextBox HorizontalAlignment="Left" Height="321" Margin="515,138,0,0" VerticalAlignment="Top" Width="326">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label Content="Enter GitHub Url" HorizontalAlignment="Left" Margin="88,91,0,0" VerticalAlignment="Top" Height="41" Width="311" FontSize="20"/>
+        <Label Content="Enter Code " HorizontalAlignment="Left" Margin="578,91,0,0" VerticalAlignment="Top" Height="40" Width="263" FontSize="22"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="414,156,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

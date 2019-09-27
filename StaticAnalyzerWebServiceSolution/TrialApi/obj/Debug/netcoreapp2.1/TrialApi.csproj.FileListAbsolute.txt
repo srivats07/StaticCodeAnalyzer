@@ -1,0 +1,14 @@
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\bin\Debug\netcoreapp2.1\TrialApi.deps.json
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\bin\Debug\netcoreapp2.1\TrialApi.runtimeconfig.json
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\bin\Debug\netcoreapp2.1\TrialApi.runtimeconfig.dev.json
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\bin\Debug\netcoreapp2.1\TrialApi.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.csprojAssemblyReference.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.csproj.CoreCompileInputs.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.RazorAssemblyInfo.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.RazorAssemblyInfo.cs
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.AssemblyInfoInputs.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.AssemblyInfo.cs
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.RazorTargetAssemblyInfo.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\bin\Debug\netcoreapp2.1\TrialApi.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\TrialApi\obj\Debug\netcoreapp2.1\TrialApi.pdb

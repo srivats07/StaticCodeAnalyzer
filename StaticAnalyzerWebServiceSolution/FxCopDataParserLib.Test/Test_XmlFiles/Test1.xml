@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfXElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XElement>
+    <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2019-09-13 07:18:59Z" FixCategory="NonBreaking">
+      <Issue Certainty="95" Level="Error">Mark 'ComputeLibrary.dll' with CLSCompliant(true) because it exposes externally visible types.</Issue>
+    </Message>
+  </XElement>
+</ArrayOfXElement>

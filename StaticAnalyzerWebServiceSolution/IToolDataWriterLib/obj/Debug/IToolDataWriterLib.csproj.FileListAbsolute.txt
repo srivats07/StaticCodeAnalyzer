@@ -1,0 +1,12 @@
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.pdb
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.csproj.CoreCompileInputs.cache
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.dll
+C:\Users\320068391\source\repos\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.csproj.CoreCompileInputs.cache
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.dll
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\obj\Debug\IToolDataWriterLib.pdb
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.dll.CodeAnalysisLog.xml
+C:\Users\320052122\Desktop\CaseStudyPhase2\MS2-Case2-Phase1\StaticAnalyzerWebServiceSolution\IToolDataWriterLib\bin\Debug\IToolDataWriterLib.dll.lastcodeanalysissucceeded

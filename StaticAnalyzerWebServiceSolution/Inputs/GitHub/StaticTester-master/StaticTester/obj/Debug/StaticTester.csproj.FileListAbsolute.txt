@@ -1,0 +1,7 @@
+C:\Users\320067390\Static\StaticTester\StaticTester\bin\Debug\StaticTester.exe.config
+C:\Users\320067390\Static\StaticTester\StaticTester\bin\Debug\StaticTester.exe
+C:\Users\320067390\Static\StaticTester\StaticTester\bin\Debug\StaticTester.pdb
+C:\Users\320067390\Static\StaticTester\StaticTester\obj\Debug\StaticTester.csprojAssemblyReference.cache
+C:\Users\320067390\Static\StaticTester\StaticTester\obj\Debug\StaticTester.csproj.CoreCompileInputs.cache
+C:\Users\320067390\Static\StaticTester\StaticTester\obj\Debug\StaticTester.exe
+C:\Users\320067390\Static\StaticTester\StaticTester\obj\Debug\StaticTester.pdb
